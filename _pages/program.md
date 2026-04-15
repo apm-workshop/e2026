@@ -6,7 +6,9 @@ order: 8
 published: true
 ---
 
-Note that the workshop will take place be in two different locations. On Thursday at the ETAPS main conferences venue - Centro Congressi Lingotto, Via Nizza, 280 - and on Friday at the ETAPS workshops venue - ITS Torino, Via Jacopo Durandi, 10.
+Note that the workshop will take place be in __two different locations__:
+ - __Thursday__ at the ETAPS main conferences venue - __Sala Berlino__, Centro Congressi Lingotto, Via Nizza, 280, 10126 Torino;
+ - __Friday__ close to the ETAPS workshops venue - Vip Room (2nd floor), Ristorante Piazza dei Mestieri, Via Jacopo Durandi, 13, 10144 Torino.
 
  <br> <br>
  
