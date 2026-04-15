@@ -8,9 +8,10 @@ published: true
 
 This special edition of APM will be co-located with ETAPS 2026, although it is not an official ETAPS event, and will take place in two different locations.
 
-- **Day 1 (Thursday, April 16, 16:30 - 18:30)** - held at at the ETAPS main [conferences venue](https://etaps.org/2026/attending/) - Centro Congressi Lingotto, Via Nizza 280, Turin.
-- **Day 2 (Friday, April 17, 09:00 - 16:00)** - held at the ETAPS [venue for workshops](https://etaps.org/2026/attending/) - ITS Torino, Via Jacopo Durandi 10, Turin.
-
+- **Day 1 (Thursday, April 16, 16:30 - 18:30)** - held at at the ETAPS main [conferences venue](https://etaps.org/2026/attending/):
+   * __Sala Berlino__, Centro Congressi Lingotto, Via Nizza 280, Turin.
+- **Day 2 (Friday, April 17, 09:00 - 16:00)** - held close by to ITS Torino, at:
+   -  Vip Room (2nd floor), Ristorante Piazza dei Mestieri, Via Jacopo Durandi, 13, 10144 Torino.
 
 
 ## Social event
