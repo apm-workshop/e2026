@@ -59,7 +59,8 @@ Note that the workshop will take place be in __two different locations__:
 		<tr>
 			<td>  09:00 - 09:30  </td>
 			<td> </td>
-			<td> <em> Maurice ter Beek: </em> Asynchronous Team Automata </td>
+			<td> <em> Maurice ter Beek: </em> 
+				<a href="../assets/slides/Maurice_Davide_Jose-APM26.pdf">Asynchronous Team Automata</a> </td>
 		</tr>		
 		<tr>
 			<td>  09:30 - 10:00  </td>
@@ -90,7 +91,8 @@ Note that the workshop will take place be in __two different locations__:
 		<tr>
 			<td>  11:10 - 11:40  </td>
 			<td> </td>
-			<td> <em> Emilio Tuosto: </em> Behavioural Types and Local-First Principles for Swarms </td>
+			<td> <em> Emilio Tuosto: </em>
+				<a href="../assets/slides/Emilio_Roland_Hernan-APM26.pdf">Behavioural Types and Local-First Principles for Swarms</a> </td>
 		</tr>
 			<tr>
 			<td>  11:40 - 12:10  </td>
@@ -136,7 +138,8 @@ Note that the workshop will take place be in __two different locations__:
 		</tr>
 		<tr>
 			<td> 16:30 - 16:50 </td>
-			<td> <em> Mohammad Mousavi: </em> Behavioural Feature Models </td>
+			<td> <em> Mohammad Mousavi: </em>
+				<a href="../assets/slides/Mohammad_JSMFES-APM26.pdf">Behavioural Feature Models</a> </td>
 			<td> </td>
 		</tr>
 		<tr>
@@ -146,7 +149,8 @@ Note that the workshop will take place be in __two different locations__:
 		</tr>
 		<tr>
 			<td> 17:20 - 17:50 </td>
-			<td> <em> Franco Barbanera: </em> Safe composition of systems of Communicating Finite State Machines </td>
+			<td> <em> Franco Barbanera: </em>
+				<a href="../assets/slides/Franco-APM26.pdf">Safe composition of systems of Communicating Finite State Machines</a> </td>
 			<td> </td>
 		</tr>
 			<tr>
