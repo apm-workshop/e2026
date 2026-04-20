@@ -144,7 +144,8 @@ Note that the workshop will take place be in __two different locations__:
 		</tr>
 		<tr>
 			<td> 16:50 - 17:20 </td>
-			<td> <em> Matteo Baldoni: </em> Evaluating the Benefits of Orpheus for Iterative and Incremental Development in MAS </td>
+			<td> <em> Matteo Baldoni: </em>
+				<a href="../assets/slides/Matteo_CASERMS-APM26.pdf">Evaluating the Benefits of Orpheus for Iterative and Incremental Development in MAS</a> </td>
 			<td> </td>
 		</tr>
 		<tr>
