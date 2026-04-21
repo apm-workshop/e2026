@@ -86,7 +86,8 @@ Note that the workshop will take place be in __two different locations__:
 		<tr>
 			<td>  10:30 - 11:10  </td>
 			<td> </td>
-			<td> <em> Marco Scaletta: </em> Taming Big CATs	</td>
+			<td> <em> Marco Scaletta: </em>
+				<a href="../assets/slides/Marco-APM26.pdf">Taming Big CATs</a>	</td>
 		</tr>
 		<tr>
 			<td>  11:10 - 11:40  </td>
