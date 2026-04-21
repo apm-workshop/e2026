@@ -102,7 +102,8 @@ Note that the workshop will take place be in __two different locations__:
 		<tr>
 			<td>  12:10 - 12:30  </td>
 			<td> </td>
-			<td> <em> Michael Lienhardt: </em> Automatic Generation of a Distributed and Asynchronous HPC Dataflow </td>
+			<td> <em> Michael Lienhardt: </em> 
+				<a href="../assets/slides/Michael-APM26.pdf">Automatic Generation of a Distributed and Asynchronous HPC Dataflow</a> </td>
 		</tr>
 		<tr>
 		 <td colspan="3">  </td>
@@ -156,7 +157,8 @@ Note that the workshop will take place be in __two different locations__:
 		</tr>
 			<tr>
 			<td> 17:50 - 18:20 </td>
-			<td> <em> Riccardo Sieve: </em> A Self-Adaptive Digital Twin Architecture for Dynamic Resource Management </td>
+			<td> <em> Riccardo Sieve: </em>
+				<a href="../assets/slides/Riccardo-APM26.pdf">A Self-Adaptive Digital Twin Architecture for Dynamic Resource Management</a> </td>
 			<td> </td>
 		</tr>
 		<tr>
