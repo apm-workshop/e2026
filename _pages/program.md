@@ -164,7 +164,7 @@ Note that the workshop will take place be in __two different locations__:
 		</tr>
 		<tr>
 			<td> 18:20 - 18:40 </td>
-			<td> <em> Daniel Drodt: </em> Towards Verification of Async Rust </td>
+			<td> <em> Daniel Drodt: </em> Towards Verification of Async Rust (Cancelled)</td>
 			<td> </td>
 		</tr>
 		<tr>
