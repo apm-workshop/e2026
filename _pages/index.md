@@ -36,12 +36,13 @@ The APM Workshop is a venue for the discussion of asynchronous programming patte
 
 The APM workshop stands in the tradition of the ABS workshop, whose last iteration took place in Porto, Portugal, but is not specific to any language or paradigm.
 
+<!--
 ## Pre-Registration and Registration
 {: .secondH #registration}
 
  We invite you to submit the pre-registration form to specify <i><b>whether you are willing to give a talk</b></i> and in which  <i><b>registration type</b></i> (Basic or Standard) you are interested.
 
-<!-- The official registration is now closed since __18th Sep__. If you would still like to join, please contact jose.proenca@fc.up.pt. -->
+<!~~ The official registration is now closed since __18th Sep__. If you would still like to join, please contact jose.proenca@fc.up.pt. ~~>
 
 There will be no reviewing, but attendance is subject to approval by the organizers. 
 
@@ -97,6 +98,8 @@ The registration options are listed below:
 - [Basic registration form](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPBASIC)
 
 - [Standard registration form](https://ticket.synesthesia.it/synesthesia/etaps-2026/redeem?voucher=APMWORKSHOPSTANDARD)
+
+-->
 
 <!--
 ## Venue
