@@ -65,7 +65,8 @@ Note that the workshop will take place be in __two different locations__:
 		<tr>
 			<td>  09:30 - 10:00  </td>
 			<td> </td>
-			<td> <em> Vincenzo Ciancia: </em> Nearbytes: a minimalist, resilient, asynchronous toolkit </td>
+			<td> <em> Vincenzo Ciancia: </em>
+				<a href="../assets/slides/Vincenzo-APM26.pdf">Nearbytes: a minimalist, resilient, asynchronous toolkit</a>	</td>
 		</tr>	
 		<tr>
 		 <td colspan="3">  </td>
