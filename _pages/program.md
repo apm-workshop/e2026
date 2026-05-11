@@ -99,7 +99,8 @@ Note that the workshop will take place be in __two different locations__:
 			<tr>
 			<td>  11:40 - 12:10  </td>
 			<td> </td>
-			<td> <em> Michele Loreti: </em> Attribute-based Communication meets Security </td>
+			<td> <em> Michele Loreti: </em>
+				<a href="../assets/slides/Michele-APM26.pdf">Attribute-based Communication meets Security</a>	</td>
 		</tr>
 		<tr>
 			<td>  12:10 - 12:30  </td>
